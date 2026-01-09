@@ -1,0 +1,14 @@
+name = "FloatingFlywheelExample"
+uuid = "00000000-0000-0000-0000-000000000000"
+authors = ["Graham P. Benham"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[deps]
+JuMP = "4076af6c-e467-55e1-9c97-5f3d2a7f2c45"
+Ipopt = "b718987f-6a6b-586b-8a41-1b08f6de4eac"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+DelimitedFiles = "8bb1440f-2f72-5da5-b5a1-3a12d9efb2b8"
+Statistics = "ade2ca70-3891-5f15-8aa5-8f1dfed3d6d8"
